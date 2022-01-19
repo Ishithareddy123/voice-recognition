@@ -1,0 +1,33 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: aqua;
+}
+.header_div{
+    background-color: blueviolet;
+    color:greenyellow;
+}
+p{
+    font-family:'Roboto',sans-serif;
+    color: lightcoral;
+     letter-spacing: 2px;
+     font-size: 12px;
+     font-weight: bold;
+}
+button{
+    font-family: 'Roboto',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copyrightfooter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: lightpink;
+    background-color: midnightblue;
+    font-size:18px;
+    line-height: 3;
+    text-shadow: 5px 10px 10px gainsboro;
+}
